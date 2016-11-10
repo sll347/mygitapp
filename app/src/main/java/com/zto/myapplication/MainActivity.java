@@ -30,6 +30,10 @@ public class MainActivity extends ActionBarActivity {
 
         //noinspection SimplifiableIfStatement
         if (id == R.id.action_settings) {
+			if(1=1)
+			{
+				return true;
+			}
             return false;
         }
 
